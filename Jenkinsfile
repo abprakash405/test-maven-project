@@ -3,6 +3,6 @@
 
 //new pipeline(this, "config.yml").execute()
 pipeline{
-	reponame = "maven-war"
+	reponame = "maven-war",
 	DeploymentName = "asn-war-example-1.0.0-SNAPSHOT"
 }
