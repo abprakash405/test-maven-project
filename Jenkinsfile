@@ -2,7 +2,7 @@
 //import com.example.*
 
 //new pipeline(this, "config.yml").execute()
-pipeline{
-	reponame = "maven-war",
+pipeline {
+	reponame = "maven-war"
 	DeploymentName = "asn-war-example-1.0.0-SNAPSHOT"
 }
