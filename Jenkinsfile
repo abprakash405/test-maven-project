@@ -7,6 +7,6 @@
 sharedPipeline {
 	reponame = "maven-war"
 	DeploymentName = "asn-war-example-1.0.0-SNAPSHOT"
-	def yaml = readYaml file: "config.yml"
+	
 	
 }
