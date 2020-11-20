@@ -1,7 +1,7 @@
 @Library('test-pipeline-library') _
 //import com.example.*
-import groovy.yaml.YamlSlurper
-import org.yaml.snakeyaml.Yaml
+//import groovy.yaml.YamlSlurper
+//import org.yaml.snakeyaml.Yaml
 
 //new pipeline(this, "config.yml").execute()
 sharedPipeline {
