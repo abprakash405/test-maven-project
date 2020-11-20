@@ -2,6 +2,6 @@
 
 
 sharedPipeline {
-	reponame = "maven-war"
-	DeploymentName = "asn-war-example-1.0.0-SNAPSHOT"
+	projectName = "Maven project"
+	serverDomain = "Mydomain"
 }
